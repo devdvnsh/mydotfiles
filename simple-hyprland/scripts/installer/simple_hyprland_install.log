@@ -1,0 +1,260 @@
+Wed Dec 25 01:33:23 AM IST 2024: Installation started
+Wed Dec 25 01:33:23 AM IST 2024: Original user is dev
+Wed Dec 25 01:33:23 AM IST 2024: Arch Linux detected. Installation proceeding.
+Wed Dec 25 01:33:25 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:33:25 AM IST 2024: Installation started for prerequisites section
+Wed Dec 25 01:33:25 AM IST 2024: Attempting to run: Update package database and upgrade packages (Recommended)
+Wed Dec 25 01:33:27 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:33:37 AM IST 2024: Update package database and upgrade packages (Recommended) completed successfully.
+Wed Dec 25 01:33:37 AM IST 2024: Attempting to run: Install YAY (Must)/Breaks the script
+Wed Dec 25 01:33:47 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:33:47 AM IST 2024: Install YAY (Must)/Breaks the script completed successfully.
+Wed Dec 25 01:33:47 AM IST 2024: Attempting to run: Clone YAY (Must)/Breaks the script
+Wed Dec 25 01:33:50 AM IST 2024: Clone YAY (Must)/Breaks the script completed successfully.
+Wed Dec 25 01:33:50 AM IST 2024: Attempting to run: Build YAY (Must)/Breaks the script
+Wed Dec 25 01:34:20 AM IST 2024: Build YAY (Must)/Breaks the script completed successfully.
+Wed Dec 25 01:34:20 AM IST 2024: Attempting to run: Configuring audio (Recommended)
+Wed Dec 25 01:34:22 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:34:23 AM IST 2024: Configuring audio (Recommended) completed successfully.
+Wed Dec 25 01:34:23 AM IST 2024: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Wed Dec 25 01:34:27 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:36:14 AM IST 2024: Installing Nerd Fonts and Symbols (Recommended) completed successfully.
+Wed Dec 25 01:36:14 AM IST 2024: Attempting to run: Install and enable SDDM (Recommended)
+Wed Dec 25 01:36:20 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:36:21 AM IST 2024: Install and enable SDDM (Recommended) completed successfully.
+Wed Dec 25 01:36:21 AM IST 2024: Attempting to run: Install Brave Browser
+Wed Dec 25 01:36:24 AM IST 2024: Operation cancelled by user.
+Wed Dec 25 01:36:24 AM IST 2024: Install Brave Browser was skipped by user choice.
+Wed Dec 25 01:36:24 AM IST 2024: Attempting to run: Install Kitty (Recommended)
+Wed Dec 25 01:36:26 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:36:26 AM IST 2024: Install Kitty (Recommended) completed successfully.
+Wed Dec 25 01:36:26 AM IST 2024: Attempting to run: Install nano
+Wed Dec 25 01:36:28 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:36:29 AM IST 2024: Install nano completed successfully.
+Wed Dec 25 01:36:29 AM IST 2024: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Wed Dec 25 01:36:32 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:36:32 AM IST 2024: Install tar for extracting files (Must)/needed for copying themes completed successfully.
+Wed Dec 25 01:36:34 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:36:34 AM IST 2024: Installation started for hypr section
+Wed Dec 25 01:36:34 AM IST 2024: Attempting to run: Install Hyprland (Must)
+Wed Dec 25 01:36:37 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:37:38 AM IST 2024: Install Hyprland (Must) completed successfully.
+Wed Dec 25 01:37:38 AM IST 2024: Attempting to run: Copy hyprland config (Must)
+Wed Dec 25 01:37:42 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:37:42 AM IST 2024: Copy hyprland config (Must) completed successfully.
+Wed Dec 25 01:37:42 AM IST 2024: Attempting to run: Install XDG desktop portal for Hyprland
+Wed Dec 25 01:37:50 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:37:58 AM IST 2024: Install XDG desktop portal for Hyprland completed successfully.
+Wed Dec 25 01:37:58 AM IST 2024: Attempting to run: Install KDE Polkit agent for authentication dialogs
+Wed Dec 25 01:38:03 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:38:14 AM IST 2024: Install KDE Polkit agent for authentication dialogs completed successfully.
+Wed Dec 25 01:38:14 AM IST 2024: Attempting to run: Install Dunst notification daemon
+Wed Dec 25 01:38:17 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:38:20 AM IST 2024: Install Dunst notification daemon completed successfully.
+Wed Dec 25 01:38:20 AM IST 2024: Attempting to run: Copy dunst config
+Wed Dec 25 01:38:23 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:38:23 AM IST 2024: Copy dunst config completed successfully.
+Wed Dec 25 01:38:23 AM IST 2024: Attempting to run: Install QT support on wayland
+Wed Dec 25 01:38:25 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:38:38 AM IST 2024: Install QT support on wayland completed successfully.
+Wed Dec 25 01:38:42 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:38:42 AM IST 2024: Installation started for utilities section
+Wed Dec 25 01:38:42 AM IST 2024: Attempting to run: Install Waybar - Status Bar
+Wed Dec 25 01:38:44 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:40:39 AM IST 2024: Install Waybar - Status Bar completed successfully.
+Wed Dec 25 01:40:39 AM IST 2024: Attempting to run: Copy Waybar config
+Wed Dec 25 01:40:39 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:40:39 AM IST 2024: Copy Waybar config completed successfully.
+Wed Dec 25 01:40:39 AM IST 2024: Attempting to run: Install Tofi - Application Launcher
+Wed Dec 25 01:40:41 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:41:06 AM IST 2024: Install Tofi - Application Launcher completed successfully.
+Wed Dec 25 01:41:06 AM IST 2024: Attempting to run: Copy Tofi config(s)
+Wed Dec 25 01:41:08 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:41:08 AM IST 2024: Copy Tofi config(s) completed successfully.
+Wed Dec 25 01:41:08 AM IST 2024: Attempting to run: Install Cliphist - Clipboard Manager
+Wed Dec 25 01:41:11 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:41:15 AM IST 2024: Install Cliphist - Clipboard Manager completed successfully.
+Wed Dec 25 01:41:15 AM IST 2024: Attempting to run: Install SWWW for wallpaper management
+Wed Dec 25 01:41:17 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:41:25 AM IST 2024: Install SWWW for wallpaper management completed successfully.
+Wed Dec 25 01:41:25 AM IST 2024: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
+Wed Dec 25 01:41:29 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:41:29 AM IST 2024: Copy sample wallpapers to assets directory (Recommended) completed successfully.
+Wed Dec 25 01:41:29 AM IST 2024: Attempting to run: Install Hyprpicker - Color Picker
+Wed Dec 25 01:41:33 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:41:39 AM IST 2024: Install Hyprpicker - Color Picker completed successfully.
+Wed Dec 25 01:41:39 AM IST 2024: Attempting to run: Install Hyprlock - Screen Locker (Must)
+Wed Dec 25 01:41:40 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:41:47 AM IST 2024: Install Hyprlock - Screen Locker (Must) completed successfully.
+Wed Dec 25 01:41:47 AM IST 2024: Attempting to run: Copy Hyprlock config
+Wed Dec 25 01:41:48 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:41:48 AM IST 2024: Copy Hyprlock config completed successfully.
+Wed Dec 25 01:41:48 AM IST 2024: Attempting to run: Install Wlogout - Session Manager
+Wed Dec 25 01:41:50 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:42:25 AM IST 2024: Install Wlogout - Session Manager completed successfully.
+Wed Dec 25 01:42:25 AM IST 2024: Attempting to run: Copy Wlogout config and assets
+Wed Dec 25 01:42:26 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:42:26 AM IST 2024: Copy Wlogout config and assets completed successfully.
+Wed Dec 25 01:42:26 AM IST 2024: Attempting to run: Install Grimblast - Screenshot tool
+Wed Dec 25 01:42:29 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:42:48 AM IST 2024: Install Grimblast - Screenshot tool completed successfully.
+Wed Dec 25 01:42:48 AM IST 2024: Attempting to run: Install Hypridle for idle management (Must)
+Wed Dec 25 01:42:53 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:42:59 AM IST 2024: Install Hypridle for idle management (Must) completed successfully.
+Wed Dec 25 01:42:59 AM IST 2024: Attempting to run: Copy Hypridle config
+Wed Dec 25 01:43:01 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:43:01 AM IST 2024: Copy Hypridle config completed successfully.
+Wed Dec 25 01:43:04 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:43:04 AM IST 2024: Installation started for theming section
+Wed Dec 25 01:43:04 AM IST 2024: Attempting to run: Install nwg-look for GTK theme management
+Wed Dec 25 01:43:07 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:43:11 AM IST 2024: Install nwg-look for GTK theme management completed successfully.
+Wed Dec 25 01:43:11 AM IST 2024: Attempting to run: Install Qt5, Qt6 Settings, and Kvantum theme engines
+Wed Dec 25 01:43:13 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:43:20 AM IST 2024: Install Qt5, Qt6 Settings, and Kvantum theme engines completed successfully.
+Wed Dec 25 01:43:20 AM IST 2024: Attempting to run: Install Catppuccin Mocha GTK theme
+Wed Dec 25 01:43:22 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:43:22 AM IST 2024: Install Catppuccin Mocha GTK theme completed successfully.
+Wed Dec 25 01:43:22 AM IST 2024: Attempting to run: Install Tela Circle Dracula icon theme
+Wed Dec 25 01:43:25 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:43:42 AM IST 2024: Install Tela Circle Dracula icon theme completed successfully.
+Wed Dec 25 01:43:42 AM IST 2024: Attempting to run: Install Catppuccin theme for Kvantum
+Wed Dec 25 01:43:44 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:43:58 AM IST 2024: Install Catppuccin theme for Kvantum completed successfully.
+Wed Dec 25 01:43:58 AM IST 2024: Attempting to run: Copy Catppuccin theme configuration for Kitty terminal
+Wed Dec 25 01:44:01 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:44:01 AM IST 2024: Copy Catppuccin theme configuration for Kitty terminal completed successfully.
+Wed Dec 25 01:44:03 AM IST 2024: Operation accepted by user.
+Wed Dec 25 01:44:03 AM IST 2024: Final setup script started
+Wed Dec 25 01:44:03 AM IST 2024: Installation completed successfully
+Mon Jan 20 07:06:36 PM IST 2025: Installation started
+Mon Jan 20 07:06:36 PM IST 2025: Original user is dev
+Mon Jan 20 07:06:36 PM IST 2025: Arch Linux detected. Installation proceeding.
+Mon Jan 20 07:06:38 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:06:38 PM IST 2025: Installation started for prerequisites section
+Mon Jan 20 07:06:38 PM IST 2025: Attempting to run: Update package database and upgrade packages (Recommended)
+Mon Jan 20 07:06:44 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:07:03 PM IST 2025: Update package database and upgrade packages (Recommended) completed successfully.
+Mon Jan 20 07:07:03 PM IST 2025: Attempting to run: Install YAY (Must)/Breaks the script
+Mon Jan 20 07:07:07 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:07:08 PM IST 2025: Install YAY (Must)/Breaks the script completed successfully.
+Mon Jan 20 07:07:08 PM IST 2025: Attempting to run: Clone YAY (Must)/Breaks the script
+Mon Jan 20 07:07:08 PM IST 2025: Command failed: git clone https://aur.archlinux.org/yay.git && cd yay
+Mon Jan 20 07:07:08 PM IST 2025: Clone YAY (Must)/Breaks the script failed and was not retried (auto mode).
+Mon Jan 20 07:07:08 PM IST 2025: Attempting to run: Build YAY (Must)/Breaks the script
+Mon Jan 20 07:07:08 PM IST 2025: Command failed: makepkg --noconfirm -si && cd .. # builds with makepkg
+Mon Jan 20 07:07:08 PM IST 2025: Build YAY (Must)/Breaks the script failed and was not retried (auto mode).
+Mon Jan 20 07:07:08 PM IST 2025: Attempting to run: Configuring audio (Recommended)
+Mon Jan 20 07:07:11 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:07:12 PM IST 2025: Configuring audio (Recommended) completed successfully.
+Mon Jan 20 07:07:12 PM IST 2025: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Mon Jan 20 07:07:14 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:07:19 PM IST 2025: Installing Nerd Fonts and Symbols (Recommended) completed successfully.
+Mon Jan 20 07:07:19 PM IST 2025: Attempting to run: Install and enable SDDM (Recommended)
+Mon Jan 20 07:07:21 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:07:23 PM IST 2025: Install and enable SDDM (Recommended) completed successfully.
+Mon Jan 20 07:07:23 PM IST 2025: Attempting to run: Install Brave Browser
+Mon Jan 20 07:07:24 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:09 PM IST 2025: Install Brave Browser completed successfully.
+Mon Jan 20 07:11:09 PM IST 2025: Attempting to run: Install Kitty (Recommended)
+Mon Jan 20 07:11:13 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:14 PM IST 2025: Install Kitty (Recommended) completed successfully.
+Mon Jan 20 07:11:14 PM IST 2025: Attempting to run: Install nano
+Mon Jan 20 07:11:15 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:15 PM IST 2025: Install nano completed successfully.
+Mon Jan 20 07:11:15 PM IST 2025: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Mon Jan 20 07:11:18 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:18 PM IST 2025: Install tar for extracting files (Must)/needed for copying themes completed successfully.
+Mon Jan 20 07:11:20 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:20 PM IST 2025: Installation started for hypr section
+Mon Jan 20 07:11:20 PM IST 2025: Attempting to run: Install Hyprland (Must)
+Mon Jan 20 07:11:22 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:23 PM IST 2025: Install Hyprland (Must) completed successfully.
+Mon Jan 20 07:11:23 PM IST 2025: Attempting to run: Copy hyprland config (Must)
+Mon Jan 20 07:11:25 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:25 PM IST 2025: Copy hyprland config (Must) completed successfully.
+Mon Jan 20 07:11:25 PM IST 2025: Attempting to run: Install XDG desktop portal for Hyprland
+Mon Jan 20 07:11:27 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:27 PM IST 2025: Install XDG desktop portal for Hyprland completed successfully.
+Mon Jan 20 07:11:27 PM IST 2025: Attempting to run: Install KDE Polkit agent for authentication dialogs
+Mon Jan 20 07:11:30 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:31 PM IST 2025: Install KDE Polkit agent for authentication dialogs completed successfully.
+Mon Jan 20 07:11:31 PM IST 2025: Attempting to run: Install Dunst notification daemon
+Mon Jan 20 07:11:33 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:34 PM IST 2025: Install Dunst notification daemon completed successfully.
+Mon Jan 20 07:11:34 PM IST 2025: Attempting to run: Copy dunst config
+Mon Jan 20 07:11:35 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:35 PM IST 2025: Copy dunst config completed successfully.
+Mon Jan 20 07:11:35 PM IST 2025: Attempting to run: Install QT support on wayland
+Mon Jan 20 07:11:37 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:38 PM IST 2025: Install QT support on wayland completed successfully.
+Mon Jan 20 07:11:39 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:39 PM IST 2025: Installation started for utilities section
+Mon Jan 20 07:11:39 PM IST 2025: Attempting to run: Install Waybar - Status Bar
+Mon Jan 20 07:11:41 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:42 PM IST 2025: Install Waybar - Status Bar completed successfully.
+Mon Jan 20 07:11:42 PM IST 2025: Attempting to run: Copy Waybar config
+Mon Jan 20 07:11:43 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:43 PM IST 2025: Copy Waybar config completed successfully.
+Mon Jan 20 07:11:43 PM IST 2025: Attempting to run: Install Tofi - Application Launcher
+Mon Jan 20 07:11:45 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:54 PM IST 2025: Install Tofi - Application Launcher completed successfully.
+Mon Jan 20 07:11:54 PM IST 2025: Attempting to run: Copy Tofi config(s)
+Mon Jan 20 07:11:56 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:56 PM IST 2025: Copy Tofi config(s) completed successfully.
+Mon Jan 20 07:11:56 PM IST 2025: Attempting to run: Install Cliphist - Clipboard Manager
+Mon Jan 20 07:11:58 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:11:58 PM IST 2025: Install Cliphist - Clipboard Manager completed successfully.
+Mon Jan 20 07:11:58 PM IST 2025: Attempting to run: Install SWWW for wallpaper management
+Mon Jan 20 07:12:00 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:12:03 PM IST 2025: Install SWWW for wallpaper management completed successfully.
+Mon Jan 20 07:12:03 PM IST 2025: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
+Mon Jan 20 07:12:06 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:12:06 PM IST 2025: Copy sample wallpapers to assets directory (Recommended) completed successfully.
+Mon Jan 20 07:12:06 PM IST 2025: Attempting to run: Install Hyprpicker - Color Picker
+Mon Jan 20 07:12:14 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:12:17 PM IST 2025: Install Hyprpicker - Color Picker completed successfully.
+Mon Jan 20 07:12:17 PM IST 2025: Attempting to run: Install Hyprlock - Screen Locker (Must)
+Mon Jan 20 07:12:19 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:12:21 PM IST 2025: Install Hyprlock - Screen Locker (Must) completed successfully.
+Mon Jan 20 07:12:21 PM IST 2025: Attempting to run: Copy Hyprlock config
+Mon Jan 20 07:12:23 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:12:23 PM IST 2025: Copy Hyprlock config completed successfully.
+Mon Jan 20 07:12:23 PM IST 2025: Attempting to run: Install Wlogout - Session Manager
+Mon Jan 20 07:12:25 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:12:34 PM IST 2025: Install Wlogout - Session Manager completed successfully.
+Mon Jan 20 07:12:34 PM IST 2025: Attempting to run: Copy Wlogout config and assets
+Mon Jan 20 07:12:36 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:12:36 PM IST 2025: Copy Wlogout config and assets completed successfully.
+Mon Jan 20 07:12:36 PM IST 2025: Attempting to run: Install Grimblast - Screenshot tool
+Mon Jan 20 07:12:38 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:12:57 PM IST 2025: Install Grimblast - Screenshot tool completed successfully.
+Mon Jan 20 07:12:57 PM IST 2025: Attempting to run: Install Hypridle for idle management (Must)
+Mon Jan 20 07:13:03 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:05 PM IST 2025: Install Hypridle for idle management (Must) completed successfully.
+Mon Jan 20 07:13:05 PM IST 2025: Attempting to run: Copy Hypridle config
+Mon Jan 20 07:13:07 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:07 PM IST 2025: Copy Hypridle config completed successfully.
+Mon Jan 20 07:13:09 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:09 PM IST 2025: Installation started for theming section
+Mon Jan 20 07:13:09 PM IST 2025: Attempting to run: Install nwg-look for GTK theme management
+Mon Jan 20 07:13:11 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:12 PM IST 2025: Install nwg-look for GTK theme management completed successfully.
+Mon Jan 20 07:13:12 PM IST 2025: Attempting to run: Install Qt5, Qt6 Settings, and Kvantum theme engines
+Mon Jan 20 07:13:13 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:14 PM IST 2025: Install Qt5, Qt6 Settings, and Kvantum theme engines completed successfully.
+Mon Jan 20 07:13:14 PM IST 2025: Attempting to run: Install Catppuccin Mocha GTK theme
+Mon Jan 20 07:13:17 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:17 PM IST 2025: Install Catppuccin Mocha GTK theme completed successfully.
+Mon Jan 20 07:13:17 PM IST 2025: Attempting to run: Install Tela Circle Dracula icon theme
+Mon Jan 20 07:13:19 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:20 PM IST 2025: Install Tela Circle Dracula icon theme completed successfully.
+Mon Jan 20 07:13:20 PM IST 2025: Attempting to run: Install Catppuccin theme for Kvantum
+Mon Jan 20 07:13:22 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:37 PM IST 2025: Install Catppuccin theme for Kvantum completed successfully.
+Mon Jan 20 07:13:37 PM IST 2025: Attempting to run: Copy Catppuccin theme configuration for Kitty terminal
+Mon Jan 20 07:13:41 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:41 PM IST 2025: Copy Catppuccin theme configuration for Kitty terminal completed successfully.
+Mon Jan 20 07:13:43 PM IST 2025: Operation accepted by user.
+Mon Jan 20 07:13:43 PM IST 2025: Final setup script started
+Mon Jan 20 07:13:43 PM IST 2025: Installation completed successfully

@@ -1,0 +1,12 @@
+{
+  "linters": {
+    "eslint": {
+      "enabled": true
+    }
+  },
+  "formatters": {
+    "eslint": {
+      "enabled": true
+    }
+  }
+}
