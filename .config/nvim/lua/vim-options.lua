@@ -47,6 +47,38 @@ keymap.set("n", "<leader>sx", "<cmd>close<CR>", { desc = "Close current split" }
 -- keymap.set("n", "<leader>tp", "<cmd>tabp<CR>", { desc = "Go to previous tab" })
 -- keymap.set("n", "<leader>tf", "<cmd>tabnew<CR>", { desc = " open current buffer in new tab" })
 
+-- Keybinds for session management with descriptions
+vim.api.nvim_set_keymap(
+	"n",
+	"<Leader>ss",
+	":mksession! Session.vim<CR>",
+	{
+		noremap = true,
+		silent = true,
+		desc = "Save session: Saves the current session (open files, layout, etc.) to Session.vim in the current directory.",
+	}
+)
+vim.api.nvim_set_keymap(
+	"n",
+	"<Leader>sr",
+	":source Session.vim<CR>",
+	{
+		noremap = true,
+		silent = true,
+		desc = "Restore session: Restores the session from Session.vim, reloading all open files and layout.",
+	}
+)
+vim.api.nvim_set_keymap(
+	"n",
+	"<Leader>sd",
+	":!rm -f Session.vim<CR>",
+	{
+		noremap = true,
+		silent = true,
+		desc = "Delete session: Deletes the Session.vim file in the current directory, removing the saved session.",
+	}
+)
+
 local opt = vim.opt
 
 opt.relativenumber = true
